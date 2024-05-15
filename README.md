@@ -1,13 +1,14 @@
 # LLM-FAQ-Expert
 
-LLM-FAQ-Expert is a small project showcasing the initial integration of Large Language Models (LLMs) for question-answering tasks in educational settings. The project includes components for extracting FAQ data, building a question-answering system, and dockerizing Elasticsearch for ease of deployment.
+LLM-FAQ-Expert is a project demonstrating the integration of Large Language Models (LLMs) for question-answering tasks in educational settings. It is designed to assist students enrolled in DataTalksClub's free courses by providing a system to search for answers within FAQ documents. We utilize the FAQ documents provided by DataTalksClub, making the system directly applicable to the courses offered by the platform.
+
 
 ## Project Components
 
 ### 1. `course_assistant_LLM.ipynb`
 
 **Description:**
-This Jupyter Notebook implements a question-answering system using OpenAI's GPT-3.5 model and Elasticsearch. It provides functionalities to retrieve relevant documents from Elasticsearch based on user queries and generate answers using the GPT-3.5 model.
+This Jupyter Notebook implements a question-answering system using OpenAI's GPT-3.5 model and Elasticsearch. It allows students to retrieve relevant information from FAQ documents of DataTalksClub's courses.
 
 ### 2. `extract_faq_to_json.ipynb`
 
