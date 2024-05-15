@@ -1,6 +1,6 @@
 # LLM-FAQ-Expert
 
-LLM-FAQ-Expert is a small project showcasing the initial integration of Large Language Models (LLMs) for a job search application. The project includes components for extracting FAQ data, building a question-answering system, and dockerizing Elasticsearch for ease of deployment.
+LLM-FAQ-Expert is a small project showcasing the initial integration of Large Language Models (LLMs) for question-answering tasks in educational settings. The project includes components for extracting FAQ data, building a question-answering system, and dockerizing Elasticsearch for ease of deployment.
 
 ## Project Components
 
